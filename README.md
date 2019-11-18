@@ -1,3 +1,3 @@
 # react-poke-catcher
 
-Run ```_npm install_``` to install dependencies.
+Run ```npm install``` to install dependencies.
